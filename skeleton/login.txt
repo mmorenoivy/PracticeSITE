@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login first HTML5</title>
+	<link rel="stylesheet" type=text/css href="css/style.css">
+</head>
+<body>
+	<div class="wrap">
+		<h2>Login Form</h2>
+		<input type = "text" name = "username" placeholder="Your username">
+		<input type = "text" name = "password" placeholder="Your password">
+		<button class="btn-login">Login</button>
+	</div>
+</body>
+</html>
